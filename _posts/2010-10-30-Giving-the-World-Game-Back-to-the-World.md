@@ -21,7 +21,9 @@ Thinking about the last question I had an idea: put the ownership in the hands o
 
 |Inputs	|Processes	|Outputs|
 |-|-|-|
-|money|<ol><li>acquire cash<li>make offer to buy<li>if offer accepted then purchase and manage<ol> |ownership and management of Liverpool FC|
+|money|1. acquire cash |ownership and management of Liverpool FC|
+| |2. make offer to buy| |
+| |3. if offer accepted then purchase and manage| |
 
 ## Step 1
 

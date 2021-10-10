@@ -22,8 +22,8 @@ However, the sheer quantity of resources makes keeping track of what's there, an
 But, a technology which is good at searching, aggregating, and displaying update data is RSS.
 
 How does RSS work? Watch:
-* [http://www.youtube.com/watch?v=WzcHDvWb0mQ](http://www.youtube.com/watch?v=WzcHDvWb0mQ) How RSS works (1:25)
-* [http://www.youtube.com/watch?v=0klgLsSxGsU](http://www.youtube.com/watch?v=0klgLsSxGsU) RSS in Plain English (3:45)
+* <http://www.youtube.com/watch?v=WzcHDvWb0mQ> How RSS works (1:25)
+* <http://www.youtube.com/watch?v=0klgLsSxGsU> RSS in Plain English (3:45)
 
 ## Resource directory feeds
 
