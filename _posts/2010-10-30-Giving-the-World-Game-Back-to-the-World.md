@@ -2,6 +2,7 @@
 layout: post
 title: Giving the World Game Back to the World
 ---
+
 # Or: Democratising Football
 
 I'm not a football club owner. Not even a manager. I was once a high school football player. So the following comments are from an IT point of view; I have no experience running a football club or much else for that matter.
