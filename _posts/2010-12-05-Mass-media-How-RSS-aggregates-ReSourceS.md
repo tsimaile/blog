@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mass media: How RSS aggregates ReSourceS
+title: Mass media - How RSS aggregates ReSourceS
 ---
 
 # Old School
