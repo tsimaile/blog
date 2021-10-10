@@ -15,10 +15,10 @@ A security concern that Steve discusses is the possibility of blink skimmers, a 
 Alternatively, the skimmer might seek to not leave a $25 transaction trail, but instead steal the identity of the card itself, thus leading to credit card fraud on a grander scale. Chase bank state that 3DES symmetric encryption is used during the RFID negotiation and transaction. All you need is the shared key ... a good hacker should be able to determine that key using a bot-net in a couple of years. How long will these cards be around? Can they dynamically change keys?
 
 Some links about the blink contactless card:
-* http://www.chaseblink.com/faq.asp - the official blink page at Chase Bank
-* http://www.youtube.com/watch?v=9nOtFsH9rbI - media reception to blink
-* http://money.howstuffworks.com/personal-finance/debt-management/blink3.htm - how blink security works
-* http://en.wikipedia.org/wiki/Contactless_smart_card - a general outline of contactless smart cards
-* http://www.popularmechanics.com/technology/how-to/4206464 - a trick to keeping your RFID devices safe in your wallet (using ... Al Foil!)
+* [http://www.chaseblink.com/faq.asp](http://www.chaseblink.com/faq.asp) - the official blink page at Chase Bank
+* [http://www.youtube.com/watch?v=9nOtFsH9rbI](http://www.youtube.com/watch?v=9nOtFsH9rbI) - media reception to blink
+* [http://money.howstuffworks.com/personal-finance/debt-management/blink3.htm](http://money.howstuffworks.com/personal-finance/debt-management/blink3.htm) - how blink security works
+* [http://en.wikipedia.org/wiki/Contactless_smart_card](http://en.wikipedia.org/wiki/Contactless_smart_card) - a general outline of contactless smart cards
+* [http://www.popularmechanics.com/technology/how-to/4206464](http://www.popularmechanics.com/technology/how-to/4206464) - a trick to keeping your RFID devices safe in your wallet (using ... Al Foil!)
 
 So, if you get an RFID on your next credit card / passport / library card, what would you do?
