@@ -3,9 +3,9 @@ layout: post
 title: Mass media - How RSS aggregates ReSourceS
 ---
 
-# Old School
-
 Before everything went online, teachers shared ideas and resources by meeting face-to-face at conferences and collegiate gatherings, or through an academy. Resources were in paper form (or papyrus) and good ideas took months and years to get distributed through a community.
+
+# Old School
 
 Sharing depended on the good-will of good teachers.
 

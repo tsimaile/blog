@@ -3,7 +3,7 @@ layout: post
 title: Feasibility of Web-based Data Management Systems
 ---
 
-**Should time and resources be allocated to investigate the implementation of web-based data management solutions through-out the school site/community?**
+> Should time and resources be allocated to investigate the implementation of web-based data management solutions through-out the school site/community?
 
 # Nutshell
 
