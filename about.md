@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Experienced physicist, teacher, and IT professional, with a long history working in the education industry.
 
-### More Information
+Passions include solving puzzles, data manipulation, cheese, and coding, and hobbies involve bicycles, bass guitars, cameras, snorkels, and adventures in French châteaus. 
 
-A place to include any other types of information that you'd like to include about yourself.
+![snorkelling](./images/100_1313.JPG)
 
-### Contact me
+## More Information
 
-[tsimaile@gmail.com](mailto:tsimaile@gmail.com)
+* [linkedin](https://www.linkedin.com/in/tsimaile/)
+* [strava](https://www.strava.com/athletes/tsimaile)
+* [tsimaile@gmail.com](mailto:tsimaile@gmail.com)

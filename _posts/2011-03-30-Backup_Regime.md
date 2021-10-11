@@ -7,9 +7,10 @@ Originally posted on 28-Feb-2009 at: [http://groups.yahoo.com/group/csteachers/m
 Reposted here for posterity (and in the event that Yahoo! ...).
 
 # Question
+
 <ggeorgoulopoulos@...> wrote:
 > 1. Can someone tell me how far back one can expect to be able to back up from in his or her particular organisation - is it more than a week?
->1. Now, can someone tell me of an application that can a) back up students work, in the first case and b) backup up modified files in the second case and, c) create a separate folder/file in the destination with those files that have been modified since the last update
+> 1. Now, can someone tell me of an application that can a) back up students work, in the first case and b) backup up modified files in the second case and, c) create a separate folder/file in the destination with those files that have been modified since the last update
 
 # Answer
 
