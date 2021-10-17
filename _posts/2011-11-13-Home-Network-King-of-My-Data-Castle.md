@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nominated Transfer - Five Stages of Grief
+title: Home Network - King of My Data Castle
 ---
 I recently purchased a couple of [gigabit](http://en.wikipedia.org/wiki/Gigabit_Ethernet) [switches](http://en.wikipedia.org/wiki/Network_switch) to run as the ["backbone"](http://en.wikipedia.org/wiki/Backbone_network) of my home network.
 
