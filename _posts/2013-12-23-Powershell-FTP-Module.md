@@ -15,7 +15,7 @@ The PSFTP module is not native to Powershell. To use the module, download and in
 1. Download from <http://gallery.technet.microsoft.com/scriptcenter/PowerShell-FTP-Client-db6fe0cb>
 1. Extract the module to your PS Module folder (found at $env:PSModulePath)
 1. Import-Module using
-```posh
+```powershell
 Import-Module PSFTP
 ```
 
@@ -34,7 +34,7 @@ $session = "my_ftp_session"
 # Credentials
 
 The connection credentials should not be stored in clear-text, but loaded from a SecureString file (which has been created using the appropriate account on the appropriate server). To establish the credentials:
-```
+```powershell
 # set up credentials object
 $username = "username"
 $password = Get-Content "pscredentials_$username.txt" | 
@@ -47,7 +47,7 @@ $cred = New-Object `
 # Get Items
 
 To input the files from FTP to local folder:
-```posh
+```powershell
 # establish connection
 # get *.REQ files
 # copy *.REQ files to local In folder
@@ -66,7 +66,7 @@ Get-FTPChildItem -Path $ftp_path -Filter *.REQ -Session $session |
 # Put Items
 
 After the data arrives at the local In folder it is processed by a separate application, which returns output to the local Out folder. It can then be put to the FTP server with:
-```posh
+```powershell
 # get all files in local Out folder
 # put all files to FTP server
 Get-ChildItem -Path $local_out |
