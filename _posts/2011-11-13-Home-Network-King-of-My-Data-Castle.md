@@ -13,7 +13,7 @@ Points of discussion could include: [twisted pair](http://en.wikipedia.org/wiki/
 And, of course, the primary reason for the new switches: [transmission speeds](http://en.wikipedia.org/wiki/Transmission_speed).
 
 Here's the network diagram (click to enlarge):
-![2011-Home-Network](../images/20111113-home_network.png)
+[![2011-Home-Network](../images/20111113-home_network.png)](../images/20111113-home_network.png)
 
 * Green = gigabit capable hardware
 * Red = external data sources
