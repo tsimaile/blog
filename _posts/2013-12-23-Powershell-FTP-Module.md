@@ -22,7 +22,7 @@ Import-Module PSFTP
 # Local Variables
 
 Now for the administrative task I was working on. Some local variables are declared for use throughout the script:
-```posh
+```powershell
 $ftp_server = "ftp://example.server.com"
 $ftp_path = "$ftp_server/folder1/subfolder2"
 $local = "\\localserver\sharedfolder1\subfolder2\"
@@ -34,7 +34,7 @@ $session = "my_ftp_session"
 # Credentials
 
 The connection credentials should not be stored in clear-text, but loaded from a SecureString file (which has been created using the appropriate account on the appropriate server). To establish the credentials:
-```posh
+```
 # set up credentials object
 $username = "username"
 $password = Get-Content "pscredentials_$username.txt" | 
