@@ -3,7 +3,7 @@ layout: post
 title: Home Network - My Data Chateau
 ---
 
-My home network has changed a bit since [2011](/Home-Network-King-of-My-Data-Castle/). New devices, new technologies, and some electrical work has made things more reliable for Work From Home.
+My home network has changed a bit since [2011](/blog/Home-Network-King-of-My-Data-Castle/). New devices, new technologies, and some electrical work has made things more reliable for Work From Home.
 
 # NBN
 
