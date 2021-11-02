@@ -12,10 +12,7 @@ Next year I'll be [transferring](/blog/Nominated-Transfer-Five-Stages-of-Grief/)
 # Technology Coordinator Achievements
 
 # Extra-curricular Achievements
-| - | - | - |
-|---|---|---|
-| **image** | **Encroacher**<br />Enjoy many years of basketball coaching Bonus points for making it to the regional finals twice (2003, 2010) | **Unlocked: May 16, 2003 2:36pm**<br />Thanks: Matt W, James H, Josh S, Joel J, Kiwat K, Mitchell D, Jaquille E, Emma A, Jordan I, Lachlan M, Kirstie S, Shara D for their dedication and captaincy<br />Special Thanks: Jenny S for organising everything we needed |
-| [![encroacher](../images/20111212-encroacher_tn.jpg)](../images/20111212-encroacher.jpg) | **Encroacher**<br />Enjoy many years of basketball coaching Bonus points for making it to the regional finals twice (2003, 2010) | **Unlocked: May 16, 2003 2:36pm**<br />Thanks: Matt W, James H, Josh S, Joel J, Kiwat K, Mitchell D, Jaquille E, Emma A, Jordan I, Lachlan M, Kirstie S, Shara D for their dedication and captaincy<br />Special Thanks: Jenny S for organising everything we needed |
+| [![encroacher](../images/20111212-encroacher_tn.jpg?s=120)](../images/20111212-encroacher.jpg) | **Encroacher**<br />Enjoy many years of basketball coaching Bonus points for making it to the regional finals twice (2003, 2010) | **Unlocked: May 16, 2003 2:36pm**<br />Thanks: Matt W, James H, Josh S, Joel J, Kiwat K, Mitchell D, Jaquille E, Emma A, Jordan I, Lachlan M, Kirstie S, Shara D for their dedication and captaincy<br />Special Thanks: Jenny S for organising everything we needed |
 
 Thanks to photo timestamps, emails, and file creation dates, most of these unlock times are accurate. Unfortunately some are only a best guess.
 
