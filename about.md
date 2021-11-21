@@ -4,9 +4,10 @@ title: About
 permalink: /about/
 ---
 
->   [LinkedIn](https://www.linkedin.com/in/tsimaile/) |
+>   [CV](https://tsimaile.github.io/cv/) |
+    [LinkedIn](https://www.linkedin.com/in/tsimaile/) |
     [Strava](https://www.strava.com/athletes/tsimaile) |
-    [tsimaile@gmail.com](mailto:tsimaile@gmail.com)
+    [chess.com](https://www.chess.com/member/mr-smiley)
 
 Experienced physicist, teacher, and IT professional, with a long history working in the education industry.
 
