@@ -35,4 +35,4 @@ If you appreciate or benefit from The Tor Project then maybe consider volunteeri
 
 # Addendum
 
-You can configure your Tor client to select which nodes it uses to enter and exit the Tor network. This is useful if you want your IP address to appear to be from a particular country; enabling you to stream content which is restricted to (or excluded from) certain locations. An outline of this configuration process can be found at the official [Tor Project FAQ](https://www.torproject.org/docs/faq#ChooseEntryExit), or for more detail search for "[tor exit country](https://www.google.com.au/search?q=tor+exit+country".
+You can configure your Tor client to select which nodes it uses to enter and exit the Tor network. This is useful if you want your IP address to appear to be from a particular country; enabling you to stream content which is restricted to (or excluded from) certain locations. An outline of this configuration process can be found at the official [Tor Project FAQ](https://www.torproject.org/docs/faq#ChooseEntryExit), or for more detail search for "[tor exit country](https://www.google.com.au/search?q=tor+exit+country)".
