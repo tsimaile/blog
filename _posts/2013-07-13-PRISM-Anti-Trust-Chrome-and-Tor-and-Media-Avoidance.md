@@ -5,8 +5,6 @@ title: PRISM - Anti-Trust, Chrome and Tor, and Media Avoidance
 
 [Sneakers (1992)](http://www.imdb.com/title/tt0105435/) is one of my fav movies. In it Robert Redford leads an ethical hack team (played by Sidney Poitier, David Strathairn, Dan Aykroyd, and River Phoenix) down a rabbit hole of cryptography, government espionage, and [too many secrets](https://www.youtube.com/watch?v=G_XRqJV2zdk). Ever since, I've always assumed there is state-sponsored network monitoring, especially after the FBI implemented [Carnivore](https://en.wikipedia.org/wiki/Carnivore_(software)) in 1997, and [ECHELON](https://en.wikipedia.org/wiki/ECHELON) was reported in 2001.
 
-![wiki_sheriff](http://upload.wikimedia.org/wikipedia/commons/0/0a/Deputy_sheriff_Mogollon_New_Mexico.jpg)
-
 On 06-Jun-2013 [news broke](http://www.washingtonpost.com/investigations/us-intelligence-mining-data-from-nine-us-internet-companies-in-broad-secret-program/2013/06/06/3a0c0da8-cebf-11e2-8845-d970ccb04497_story.html) of state-sponsored surveillance known as [PRISM](https://en.wikipedia.org/wiki/PRISM_(surveillance_program)), which reportedly utilises corporate collected data to monitor customer online activities and communications.
 
 Steve Gibson](https://twit.tv/people/steve-gibson) explained PRISM as an industrial-scale implementation of [big-data](https://en.wikipedia.org/wiki/Big_data) ([Security Now #408](http://twit.tv/show/security-now/408)), and [TWIET #46](http://twit.tv/show/this-week-in-enterprise-tech/46) discussed the inherent lack of trust in government. It is apparent that the state believes it's citizens are guilty unless proven data-less.
@@ -17,7 +15,7 @@ The issue isn't whether or not secret state surveillance is happening. The issue
 
 Supporters of state-sponsored surveillance argue "If you're not doing anything wrong, you have nothing to hide." Unfortunately this reasoning is not applied to PRISM itself; if it's so good, why was it secret?
 
-![wiki_censored](https://upload.wikimedia.org/wikipedia/commons/f/f4/Censored_WPA_poster.jpg)
+![wiki_censored](https://upload.wikimedia.org/wikipedia/commons/f/f4/Censored_WPA_poster.jpg?s=120)
 
 An intelligence official released a declassified document on 15-Jun-2013 to "show Americans the value of the program" [according to AP](https://www.cbsnews.com/news/officials-nsa-programs-broke-terror-plots-in-20-nations/). However the program had previously been too good for public recognition.
 
@@ -28,6 +26,8 @@ PRISM looks at far more than mail meta-data, but currently the public (and the [
 # Sheriff Analogy
 
 Let's devolve the technology and consider a real-world analogy.
+
+![wiki_sheriff](http://upload.wikimedia.org/wikipedia/commons/0/0a/Deputy_sheriff_Mogollon_New_Mexico.jpg?s=120)
 
 Imagine you live in a small rural town, where everyone knows everyone else, and the Sheriff  Alice cares for and looks after the citizens. While sitting on her porch she watches over Main Street, and notes when something seems out-of-place. With this knowledge she solves and prevents crime.
 
@@ -56,7 +56,7 @@ For a comprehensive list of PRISM prevention technology, including web-traffic e
 
 # Media Avoidance
 
-![wiki_prism_logo](https://upload.wikimedia.org/wikipedia/commons/b/b1/PRISM_logo.jpg)
+![wiki_prism_logo](https://upload.wikimedia.org/wikipedia/commons/b/b1/PRISM_logo.jpg?s=120)
 
 Mainstream media has been focusing primarily on the messenger, and not the message. There are daily updates of the whereabouts of the [leaker](http://en.wikipedia.org/wiki/Edward_Snowden), and opinions of whether he is a traitor or patriot. Not much attention has been paid to the PRISM program itself.
 
@@ -67,9 +67,10 @@ Media avoidance could also be considered a trust issue; between news producers a
 # Conclusion
 
 Please let me know what you think.
-    * Do you anonymise or encrypt your web-traffic?
-    * Should the media be explaining this better to the public?
-    * Have you seen Sneakers?
+- Do you anonymise or encrypt your web-traffic?
+- Should the media be explaining this better to the public?
+- Have you seen Sneakers?
 
 # Update 14-Jul-2013
+
 Cameron Murphy (President of [NSW Council Of Civil Liberties](http://www.nswccl.org.au/)) spoke on ABC News24 at [13-Jul-2013 10:10AM](https://twitter.com/CameronMurphy__/status/355837425622335488) about similar issues raised by [Telstra surveillance](http://www.zdnet.com/telstra-agreed-to-retain-data-for-us-authorities-7000017986/). 
