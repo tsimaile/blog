@@ -15,7 +15,7 @@ The issue isn't whether or not secret state surveillance is happening. The issue
 
 Supporters of state-sponsored surveillance argue "If you're not doing anything wrong, you have nothing to hide." Unfortunately this reasoning is not applied to PRISM itself; if it's so good, why was it secret?
 
-![wiki_censored](https://upload.wikimedia.org/wikipedia/commons/f/f4/Censored_WPA_poster.jpg?s=120)
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Censored_WPA_poster.jpg" width="200" style="float:right;">
 
 An intelligence official released a declassified document on 15-Jun-2013 to "show Americans the value of the program" [according to AP](https://www.cbsnews.com/news/officials-nsa-programs-broke-terror-plots-in-20-nations/). However the program had previously been too good for public recognition.
 
