@@ -25,9 +25,9 @@ PRISM looks at far more than mail meta-data, but currently the public (and the [
 
 # Sheriff Analogy
 
-Let's devolve the technology and consider a real-world analogy.
+<img src="http://upload.wikimedia.org/wikipedia/commons/0/0a/Deputy_sheriff_Mogollon_New_Mexico.jpg" width="200" style="float:right;">
 
-![wiki_sheriff](http://upload.wikimedia.org/wikipedia/commons/0/0a/Deputy_sheriff_Mogollon_New_Mexico.jpg?s=120)
+Let's devolve the technology and consider a real-world analogy.
 
 Imagine you live in a small rural town, where everyone knows everyone else, and the Sheriff  Alice cares for and looks after the citizens. While sitting on her porch she watches over Main Street, and notes when something seems out-of-place. With this knowledge she solves and prevents crime.
 
@@ -56,7 +56,7 @@ For a comprehensive list of PRISM prevention technology, including web-traffic e
 
 # Media Avoidance
 
-![wiki_prism_logo](https://upload.wikimedia.org/wikipedia/commons/b/b1/PRISM_logo.jpg?s=120)
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/PRISM_logo.jpg" width="200" style="float:right;">
 
 Mainstream media has been focusing primarily on the messenger, and not the message. There are daily updates of the whereabouts of the [leaker](http://en.wikipedia.org/wiki/Edward_Snowden), and opinions of whether he is a traitor or patriot. Not much attention has been paid to the PRISM program itself.
 
