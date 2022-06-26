@@ -7,8 +7,6 @@ Just as cars and planes move people, the internet is a great way of moving infor
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Jess_Dixon_in_his_flying_automobile.jpg" alt="WikiMedia: Jess Dixon in his flying automobile" width="200" style="float:right;">
 
-![](https://upload.wikimedia.org/wikipedia/commons/6/63/Jess_Dixon_in_his_flying_automobile.jpg)
-
 ## Birds Can Walk
 
 In 1806 the [first cars](http://en.wikipedia.org/wiki/History_of_the_automobile) powered by an internal-combustion engine appeared, and a completely new paradigm of travel was ready for mass-production.
