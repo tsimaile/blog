@@ -5,7 +5,9 @@ title: Technical Duplicity - Some birds don't fly
 
 Just as cars and planes move people, the internet is a great way of moving information. But, there seems to be a lot of work being done using electronic tools in an inefficient way. It's like using a plane to drive around on the ground, not knowing that your technology can now fly.
 
-![https://upload.wikimedia.org/wikipedia/commons/6/63/Jess_Dixon_in_his_flying_automobile.jpg](https://upload.wikimedia.org/wikipedia/commons/6/63/Jess_Dixon_in_his_flying_automobile.jpg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Jess_Dixon_in_his_flying_automobile.jpg" alt="WikiMedia: Jess Dixon in his flying automobile" width="200" style="float:right;">
+
+![](https://upload.wikimedia.org/wikipedia/commons/6/63/Jess_Dixon_in_his_flying_automobile.jpg)
 
 ## Birds Can Walk
 

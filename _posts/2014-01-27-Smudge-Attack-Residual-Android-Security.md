@@ -5,7 +5,7 @@ title: Smudge Attack - Residual Android Security
 
 One problem with using pattern-lock to secure an Android device is that fingerprint residue on the screen can be used by an attacker to guess the pattern (AKA smudge attack).
 
-![IPad_with_extensive_fingerprints_and_smudges.jpg](https://upload.wikimedia.org/wikipedia/commons/b/b7/IPad_with_extensive_fingerprints_and_smudges.jpg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b7/IPad_with_extensive_fingerprints_and_smudges.jpg" alt="WikiMedia: iPad with smudges" width="200" style="float:right;">
 
 So a really good idea would be for the unlock pattern to be different each time. By differentiating the matrix points as colours, numbers, or a mixture of other objects, the user needs to remember the sequence of points, and the pattern can be randomly created as required. (One interesting side-affect of the random matrix is that the pattern is device orientation independent, since it only depends on the order in which you join the dots.)
 
@@ -23,9 +23,9 @@ Sounds simple, but as of yet, I can't find an app that meets all three points. T
 
 ## [Orbie Lock Screen](https://play.google.com/store/apps/details?id=com.qariapps.android.lockscreen)
 
-This is a free Android app, which looked promising, but didn't actually lock the device's internal storage.
+<img src="../images/20140127-orbie.png" alt="Orbie lock screen" width="200" style="float:right;">
 
-![orbie_lock_screen](../images/20140127-orbie.png)
+This is a free Android app, which looked promising, but didn't actually lock the device's internal storage.
 
 * **The Good:** Free, random unlock patterns; default matrix points are colours, but these can be upgraded to include sets of numbers, flags etc.; space for Owner Information
 * **The Ugly:** Kind of looks like a 1980s Japanese game show, no clock format customisation
@@ -36,9 +36,9 @@ This is a free Android app, which looked promising, but didn't actually lock the
 
 ## [Number Track Lock](https://play.google.com/store/apps/details?id=jp.jmon.matrixlockscreen)
 
-Since I now knew what to look for, I specifically downloaded this AU$3.99 app with the idea of checking it out, and cancelling within the 15 minute refund period if it wasn't satisfactory. Once again, it seemed to work well, but did not lock the device's internal storage.
+<img src="../images/20140127-number_track.png" alt="Number Track Lock" width="200" style="float:right;">
 
-![number_track_lock](../images/20140127-number_track.png)
+Since I now knew what to look for, I specifically downloaded this AU$3.99 app with the idea of checking it out, and cancelling within the 15 minute refund period if it wasn't satisfactory. Once again, it seemed to work well, but did not lock the device's internal storage.
 
 * **The Good:** Looks stylish, and works very smoothly; space for Owner Information
 * **The Ugly:** No clock format customisation

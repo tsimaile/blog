@@ -5,7 +5,7 @@ title: How To - Google Chrome and Tor
 
 [Tor](https://www.torproject.org/) (The Onion Router) is free software and an open network intended to enable online anonymity. The default [browser bundle](https://www.torproject.org/download/download-easy.html.en) is the [ESR version](http://www.mozilla.org/en-US/firefox/organizations/) of Mozilla Firefox, which is good for privacy, but restricts functionality.
 
-![Tor logo](https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Tor-logo-2011-flat.svg/200px-Tor-logo-2011-flat.svg.png)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Tor-logo-2011-flat.svg/200px-Tor-logo-2011-flat.svg.png" alt="WikiMedia: TOR logo" width="200" style="float:right;">
 
 Security expert [Steve Gibson](https://www.grc.com/resume.htm) describes the benefits and structure of Tor in [Security Now 70](http://twit.tv/sn70). The official [Overview](https://www.torproject.org/about/overview.html.en) also outlines [Why We Need Tor](https://www.torproject.org/about/overview.html.en#whyweneedtor), and [How It Works](https://www.torproject.org/about/overview.html.en#thesolution). And [Wikipeida](http://en.wikipedia.org/wiki/Tor_(anonymity_network)) has a good summary or it's history, weaknesses, and legal issues.
 

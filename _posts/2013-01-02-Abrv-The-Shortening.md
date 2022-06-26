@@ -5,7 +5,7 @@ title: Abrv - The Shortening
 
 Old-school text-messaging led to the abbreviation of language. 4 eg u can read this :-)
 
-![](../images/20130102-abrv_theshortening.png)
+<img src="../images/20130102-abrv_theshortening.png" alt="https://www" width="200" style="float:right;">
 
 But some common technology terminology is still spoken in long-form. And when mainstream media highlight a website, they sometimes use a lot of syllables. For example; telling folks to link to this website would sound like:
 * h-t-t-p-co-lon-for-ward-slash-for-ward-slash-dou-ble-u-dou-ble-u-dou-ble-u-dou-ble-u-dot-blog-ger-dot-com

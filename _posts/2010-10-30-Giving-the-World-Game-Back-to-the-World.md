@@ -5,7 +5,7 @@ title: Giving the World Game Back to the World
 
 I'm not a football club owner. Not even a manager. I was once a high school football player. So the following comments are from an IT point of view; I have no experience running a football club or much else for that matter.
 
-![Wikimedia: Water bottles and a ball during soccer practice](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Water_bottles_and_a_ball_during_soccer_practice.jpg/800px-Water_bottles_and_a_ball_during_soccer_practice.jpg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Water_bottles_and_a_ball_during_soccer_practice.jpg/800px-Water_bottles_and_a_ball_during_soccer_practice.jpg" alt="Wikimedia: Water bottles and a ball during soccer practice" width="200" style="float:right;">
 
 Recently Liverpool FC hasn't been playing too well, and usually mangement is to blame. In this particular case it's ownership ... a big legal battle abrews.
 

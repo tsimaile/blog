@@ -5,11 +5,11 @@ title: 1:1 Learning Unconference 2011
 
 Over 21/22 June 2011 the 1:1 Learning Unconference was held in Sydney and promoted to help NSW teachers implement the Digital Education Revolution in their schools. Although interested when I first heard about the event, I dismissed it as too expensive for school funds to cover considering the cost of transport and accommodation. But [Ross Woolfe](https://www.linkedin.com/in/ross-woolfe-68171494/) from the Lismore Education Office offered an invite which I was happy to jump at.
 
+<img src="https://live.staticflickr.com/3126/5854347735_5fc7befb97_b.jpg" alt="Flickr: 1:1 Unconference" width="200" style="float:right;">
+
 An unconference is participant-driven, with pre-event surveys determining what would be presented, and by whom. I was fortunate to be able to present:
 * Showcase: ~~Video Conferencing and Moodle~~
 * Micro Learning Session: ~~Painting Animation with Photoshop~~
-
-![Flickr: 1:1 Unconference](https://live.staticflickr.com/3126/5854347735_5fc7befb97_b.jpg)
 
 The conveners, [Ben Jones](https://www.linkedin.com/in/benpaddlejones/) and [Pip Cleaves](https://www.linkedin.com/in/pipcleaves/), demonstrated the use of digital resources during registration and preparation, providing wikispace and cloud documents, sending SMS and emails to encourage and inspire, and encouraging discussion and interaction via [twitter](http://twitter.com/#!/search?q=%231to1unconf), ~~liveblog~~ and [flicker](http://www.flickr.com/photos/64285039@N04).
 

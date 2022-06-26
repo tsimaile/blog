@@ -5,7 +5,7 @@ title: Powershell - FTP Module
 
 I've been [learning Windows Powershell](http://blogs.technet.com/b/heyscriptingguy/) over the past year, and developing scripts for scheduled tasks to perform administrative functions. One of the tasks requires data retrieval from an FTP server, waits for the data to be processed, and then puts the results back to the FTP server.
 
-![](../images/psftp.png)
+<img src="../images/psftp.png" alt="ps:>_ftp" width="200" style="float:right;">
 
 Lots of FTP functions have been written and are freely available, but I've found [Michal Gajda](http://commandlinegeeks.com/)'s [PSFTP client module](http://gallery.technet.microsoft.com/scriptcenter/PowerShell-FTP-Client-db6fe0cb) the easiest and most efficient method. It has functions to set multiple connections, and list, get, put, and remove files and folders.
 
@@ -15,14 +15,14 @@ The PSFTP module is not native to Powershell. To use the module, download and in
 1. Download from <http://gallery.technet.microsoft.com/scriptcenter/PowerShell-FTP-Client-db6fe0cb>
 1. Extract the module to your PS Module folder (found at $env:PSModulePath)
 1. Import-Module using
-```powershell
+```
 Import-Module PSFTP
 ```
 
 # Local Variables
 
 Now for the administrative task I was working on. Some local variables are declared for use throughout the script:
-```powershell
+```
 $ftp_server = "ftp://example.server.com"
 $ftp_path = "$ftp_server/folder1/subfolder2"
 $local = "\\localserver\sharedfolder1\subfolder2\"
@@ -34,7 +34,7 @@ $session = "my_ftp_session"
 # Credentials
 
 The connection credentials should not be stored in clear-text, but loaded from a SecureString file (which has been created using the appropriate account on the appropriate server). To establish the credentials:
-```powershell
+```
 # set up credentials object
 $username = "username"
 $password = Get-Content "pscredentials_$username.txt" | 
@@ -47,7 +47,7 @@ $cred = New-Object `
 # Get Items
 
 To input the files from FTP to local folder:
-```powershell
+```
 # establish connection
 # get *.REQ files
 # copy *.REQ files to local In folder
@@ -66,7 +66,7 @@ Get-FTPChildItem -Path $ftp_path -Filter *.REQ -Session $session |
 # Put Items
 
 After the data arrives at the local In folder it is processed by a separate application, which returns output to the local Out folder. It can then be put to the FTP server with:
-```powershell
+```
 # get all files in local Out folder
 # put all files to FTP server
 Get-ChildItem -Path $local_out |

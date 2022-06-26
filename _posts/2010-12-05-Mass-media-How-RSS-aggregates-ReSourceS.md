@@ -5,11 +5,11 @@ title: Mass media - How RSS aggregates ReSourceS
 
 Before everything went online, teachers shared ideas and resources by meeting face-to-face at conferences and collegiate gatherings, or through an academy. Resources were in paper form (or papyrus) and good ideas took months and years to get distributed through a community.
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Land_on_the_Moon_7_21_1969-repair.jpg/405px-Land_on_the_Moon_7_21_1969-repair.jpg" alt="WikiMedia:Land on the Moon 7 21 1969-repair" width="200" style="float:right;">
+
 # Old School
 
 Sharing depended on the good-will of good teachers.
-
-![WikiMedia:Land on the Moon 7 21 1969-repair](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Land_on_the_Moon_7_21_1969-repair.jpg/405px-Land_on_the_Moon_7_21_1969-repair.jpg)
 
 # New School
 

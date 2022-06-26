@@ -5,7 +5,7 @@ title: Ideal Search - Don't Forget to ask "Why?"
 
 [Ben Gomes](https://www.linkedin.com/in/ben-g-14a57a2a/) (Google Fellow) posted a video on 28-Nov-2011 entitled: [The evolution of search in six minutes](http://insidesearch.blogspot.com/2011/11/evolution-of-search-in-six-minutes.html). In it [Amit Singhal](http://singhal.info/) (Google Fellow) describes his ideal Google (from 5:30). He describes a search engine that returns answers to complex questions such as "what is the best time for me to sow seeds in India given that monsoon was early this year."
 
-![jsmiller](https://www.abc.net.au/science/quiz/img/jsmiller.jpg)
+<img src="https://www.abc.net.au/science/quiz/img/jsmiller.jpg" alt="abc.net.au: jsmiller" width="200" style="float:right;">
 
 Amit doesn't provide a sample response, but it might be something like:
 

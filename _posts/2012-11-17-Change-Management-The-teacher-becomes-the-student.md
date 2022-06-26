@@ -5,7 +5,7 @@ title: Change Management - The teacher becomes the student
 
 After [teaching](https://tsimaile.github.io/blog/Achievements-Unlocked-Leveling-up/) high school students about computer hardware and programming languages for 20 years I am now practicing what I preached!
 
-![https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/ComputerProgrammer.jpg/640px-ComputerProgrammer.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/ComputerProgrammer.jpg/640px-ComputerProgrammer.jpg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/ComputerProgrammer.jpg/640px-ComputerProgrammer.jpg" alt="WikiMedia: Computer Programmer" width="200" style="float:right;">
 
 This week I started working as a [Senior Technical Support Officer](https://www.scu.edu.au/about/contacts/staff-directory/staff/34442.php) in the Administrative Systems team of [Southern Cross University](http://www.scu.edu.au/). I'm learning about managing system environments, modifying and applying upgrades to corporate software, and providing advice and operational support to clients for Corporate Services applications and other related systems.
 

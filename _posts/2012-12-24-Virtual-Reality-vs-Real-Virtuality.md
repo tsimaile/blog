@@ -5,7 +5,7 @@ title: Virtual Reality vs Real Virtuality - The Virtual Visitor Information Cent
 
 The Lismore Visitor Information Centre (VIC) recently revamped their indoor model rainforest walk into a [vibrant, interactive display, featuring murals](http://www.echonews.com.au/news/art-and-environment-captured-in-rainforest/1688343/).
 
-![BEYOND IMAGINATION: In the revamped Lismore Visitor Centre’s rainforest walk are Lismore City Council Tourism co-ordinator Mitch Lowe, and Nimbin Visitor Centre co-ordinator Andrew Walker](http://media2.apnonline.com.au/img/media/images/2012/12/20/LEC_20-12-2012_EGN_04_lecvisitorcentre_fct1024x630x54_t460.jpg)
+<img src="http://media2.apnonline.com.au/img/media/images/2012/12/20/LEC_20-12-2012_EGN_04_lecvisitorcentre_fct1024x630x54_t460.jpg" alt="APN: Lismore Visitor Centre’s rainforest walk" width="200" style="float:right;">
 
 I'm calling this Real Virtuality (RV). Real in that it's a physical installation; Virtual in that it's emulating a rainforest. (Note: [Wikipedia](http://en.wikipedia.org/wiki/Real_Virtuality) uses the term differently.)
 

@@ -5,11 +5,11 @@ title: Nominated Transfer - Five Stages of Grief
 
 Due to a reduction in student numbers my school will be over-staffed in 2012, and a teacher needs to be relocated to another site. On Friday 11-Nov-2011 I was nominated to transfer.
 
+<img src="http://s0.geograph.org.uk/geophotos/01/35/64/1356427_df489451.jpg" alt="GeoPhotos: open door" width="200" style="float:right;">
+
 ## Five Stages of Grief
 
 I found it interesting to observe my own reactions and how they fit into the Kübler-Ross model of the five stages of grief. The model is based on interviews with more than 500 dying patients, but it can also apply to catastrophic loss (job, income, freedom).
-
-![http://s0.geograph.org.uk/geophotos/01/35/64/1356427_df489451.jpg](../images/1356427_df489451.jpg)
 
 ## Denial
 

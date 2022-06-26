@@ -5,7 +5,7 @@ title: Chess Skills - Life Lessons
 
 Chess is a fun game. And I've seen the benefits of the game produce great results for high school students. Benefits such as improved concentration, problem-solving, and self-control.
 
-[![club sign-up](../images/20160212-100_0937.JPG)](../images/20160212-100_0937.JPG)
+<img src="../images/20160212-100_0937.JPG" alt="Club sign up" width="200" style="float:right;">
 
 Since joining [chess.com](http://www.chess.com/members/view/Mr-Smiley) and regularly playing staff and students at work, I've been thinking about the benefits of chess; some of which are mentioned in [Josh Waitzkin's Academy](https://www.youtube.com/watch?v=Nn91D8f6-6c) from [Chessmaster](https://en.wikipedia.org/wiki/Chessmaster) 10th Edition.
 
