@@ -17,7 +17,7 @@ A huge benefit from this event was the chance to meet some mentors face-to-face,
 
 ## Benefits
 
-* Pip Cleaves (DERNSW) and others demonstrated presentation format Pecha-Kucha – 20 slides at 20 seconds each
+* [Pip Cleaves](https://www.linkedin.com/in/pipcleaves/) (DERNSW) and others demonstrated presentation format Pecha-Kucha – 20 slides at 20 seconds each
 * [Paul Ganderton](https://www.linkedin.com/in/drpaulganderton/) (Sydney Boys High School) showed benefits of using Moodle blogs to encourage students to contribute and collaborate
 * [Glynis Jones](https://www.linkedin.com/in/glynis-jones-0b12aa8/) (UTS) described how to use reflective blog to evaluate video conference learning from student viewpoint
 * [Matthew Kearney](https://www.linkedin.com/in/mkearneypost/) (UTS) expressed interest in demonstrating video conference learning with pre-service teachers
